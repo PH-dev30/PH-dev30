@@ -137,6 +137,12 @@
       alt="Perfil no LinkedIn"
     />
   </a>
+   <a href="https://www.instagram.com/pedroh.ofl/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram"
+      />
+  </a>
   <a href="mailto:pedrohsdgomes@gmail.com">
     <img
       src="https://img.shields.io/badge/E--mail-Contato-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
