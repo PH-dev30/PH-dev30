@@ -47,7 +47,7 @@
 
 <p align="center">
   <sub>
-    Ajuste esta lista para manter somente as tecnologias que você realmente utiliza.
+    
   </sub>
 </p>
 
