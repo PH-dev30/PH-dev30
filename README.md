@@ -36,18 +36,16 @@
 </p>
 
 <!-- TECNOLOGIAS -->
-<h2 align="center">🛠️ Tecnologias e ferramentas</h2>
+<h2 align="center">📚 Tecnologias em aprendizado</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,git,github,vscode&theme=dark"
-    alt="Ícones de tecnologias"
-  />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,html,css,spring&theme=dark" alt="Tecnologias em aprendizado" />
 </p>
+
 
 <p align="center">
   <sub>
-    
+    Sempre aprendendo mais!
   </sub>
 </p>
 
