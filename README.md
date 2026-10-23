@@ -1,31 +1,37 @@
 
-# Olá! Eu sou o Pedro 👋
+<h1 align="center">Pedro Henrique</h1>
 
-💻 Desenvolvedor em constante evolução  
-🚀 Criando projetos para aprender e resolver problemas  
-📱 Interessado em desenvolvimento mobile e web
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Mobile+%26+Web;Sempre+criando+algo+novo" alt="Texto animado" />
+</p>
 
-## 🛠️ Tecnologias
-
-- JavaScript / TypeScript
-- React
-- React Native
-- HTML e CSS
-- Git e GitHub
-
-## 🚀 Projetos em destaque
-
-### 📱 Projeto Mobile
-Aplicativo desenvolvido para praticar desenvolvimento mobile.
-[Ver projeto](https://github.com/)
-
-### 🌐 Projeto Web
-Projeto web com foco em interface e experiência do usuário.
-[Ver projeto](https://github.com/)
-
-## 📊 GitHub
-
-Sempre aprendendo, construindo e evoluindo!
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-Explorar-007ACC?style=for-the-badge&logo=github" alt="Projetos" />
+  </a>
+</p>
 
 ---
-📫 Entre em contato: seuemail@exemplo.com
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Sobre mim</h3>
+      <p>Desenvolvedor explorando o mundo mobile e web.</p>
+      <p>Gosto de criar projetos, experimentar tecnologias e aprender na prática.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>⚡ Tecnologias</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git" alt="Tecnologias" />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🚀 Meus projetos</h2>
+
+<p align="center">
+  Confira meus repositórios fixados abaixo!
+</p>
