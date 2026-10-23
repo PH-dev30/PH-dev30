@@ -49,6 +49,8 @@
   </sub>
 </p>
 
+<br/>
+
 <!-- PROJETOS -->
 <h2 align="center">🚀 Projeto em destaque</h2>
 
