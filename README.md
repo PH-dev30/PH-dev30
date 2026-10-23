@@ -35,6 +35,8 @@
   🎯 Aprendendo e evoluindo a cada projeto
 </p>
 
+<br/>
+
 <!-- TECNOLOGIAS -->
 <h2 align="center">📚 Tecnologias em aprendizado</h2>
 
@@ -88,6 +90,8 @@
   </a>
 </p>
 
+<br/>
+
 <!-- ESTATÍSTICAS -->
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
@@ -104,6 +108,8 @@
   />
 </p>
 
+<br/>
+
 <!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
 <h2 align="center">🔥 Sequência de contribuições</h2>
 
@@ -114,6 +120,7 @@
   />
 </p>
 
+<br/>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
 <picture>
@@ -122,6 +129,7 @@
 </picture>
 <!-- END ACTIVITY-GRAPH -->
 
+<br/>
 
 <!-- CONTATO -->
 <h2 align="center">📫 Vamos conversar?</h2>
