@@ -122,7 +122,7 @@
 
 
 <!-- CONTATO -->
-<h2 align="center">📫 Vamos nos conectar?</h2>
+<h2 align="center">📫 Vamos conversar?</h2>
 
 <p align="center">
   <a href="https://github.com/PH-dev30">
