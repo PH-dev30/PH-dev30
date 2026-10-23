@@ -7,7 +7,7 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:075985,100:00D4FF&height=220&section=header&text=SEU_NOME&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=58&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:075985,100:00D4FF&height=220&section=header&text=Pedro Henrique&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=58&descSize=16&animation=fadeIn"
     alt="Banner azul neon"
     width="100%"
   />
@@ -25,7 +25,7 @@
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-  Olá! Sou <strong>SEU_NOME</strong>, e este é meu espaço para compartilhar
+  Olá! Sou <strong>Pedro Henrique</strong>, e este é meu espaço para compartilhar
   projetos, experimentos e aprendizados na programação.
 </p>
 
