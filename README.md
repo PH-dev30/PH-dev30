@@ -9,7 +9,7 @@
   <a href="https://github.com/PH-dev30">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://github.com/SEU_USUARIO?tab=repositories">
+  <a href="https://github.com/PH-dev30?tab=repositories">
     <img src="https://img.shields.io/badge/Projetos-Explorar-007ACC?style=for-the-badge&logo=github" alt="Projetos" />
   </a>
 </p>
