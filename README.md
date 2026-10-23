@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**PH-dev30/PH-dev30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Pedro 👋
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em constante evolução  
+🚀 Criando projetos para aprender e resolver problemas  
+📱 Interessado em desenvolvimento mobile e web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- JavaScript / TypeScript
+- React
+- React Native
+- HTML e CSS
+- Git e GitHub
+
+## 🚀 Projetos em destaque
+
+### 📱 Projeto Mobile
+Aplicativo desenvolvido para praticar desenvolvimento mobile.
+[Ver projeto](https://github.com/)
+
+### 🌐 Projeto Web
+Projeto web com foco em interface e experiência do usuário.
+[Ver projeto](https://github.com/)
+
+## 📊 GitHub
+
+Sempre aprendendo, construindo e evoluindo!
+
+---
+📫 Entre em contato: seuemail@exemplo.com
