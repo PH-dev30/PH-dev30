@@ -1,14 +1,14 @@
- <!--
-  README de perfil do GitHub
-  Substitua PH-dev30, pedrohsdgomes@gmail.com e os demais placeholders.
-  Remova tecnologias e links que não correspondam ao seu perfil.
+<!--
+  README de perfil do GitHub — Pedro Henrique
+  Perfil: PH-dev30
+  Personalize as tecnologias conforme sua experiência real.
 -->
 
 <!-- BANNER SUPERIOR -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:075985,100:00D4FF&height=220&section=header&text=Pedro Henrique&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=58&descSize=16&animation=fadeIn"
-    alt="Banner azul neon"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:075985,100:00D4FF&height=220&section=header&text=Pedro%20Henrique&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20Criatividade%20%7C%20Tecnologia&descAlignY=58&descSize=16&animation=fadeIn"
+    alt="Banner azul neon de Pedro Henrique"
     width="100%"
   />
 </p>
@@ -25,13 +25,13 @@
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-  Olá! Sou <strong>Pedro Henrique</strong>, e este é meu espaço para compartilhar
-  projetos, experimentos e aprendizados na programação.
+  Olá! Sou <strong>Pedro Henrique</strong> (<strong>PH-dev30</strong>).
+  Este é meu espaço para compartilhar projetos, experimentos e aprendizados em programação.
 </p>
 
 <p align="center">
   🚀 Explorando novas tecnologias<br>
-  💡 Desenvolvendo projetos pessoais<br>
+  💡 Desenvolvendo projetos pessoais e colaborativos<br>
   🎯 Aprendendo e evoluindo a cada projeto
 </p>
 
@@ -47,41 +47,33 @@
 
 <p align="center">
   <sub>
-    Personalize a lista acima para mostrar somente as tecnologias que você utiliza.
+    Ajuste esta lista para manter somente as tecnologias que você realmente utiliza.
   </sub>
 </p>
 
 <!-- PROJETOS -->
-<h2 align="center">🚀 Projetos em destaque</h2>
+<h2 align="center">🚀 Projeto em destaque</h2>
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Projeto Mobile</h3>
+    <td valign="top">
+      <h3 align="center">🏋️ Gestão de Academia — React Web + Mobile</h3>
       <p align="center">
-        Descreva aqui seu aplicativo, suas funcionalidades e o problema que resolve.
+        Projeto colaborativo organizado em um monorepo, reunindo as versões web e mobile.
+        O repositório está hospedado no GitHub de um colega.
       </p>
       <p align="center">
-        <a href="https://github.com/PH-dev30/REPOSITORIO_MOBILE">
+        <a href="https://github.com/eu-joao/gestao-academia-react">
           <img
-            src="https://img.shields.io/badge/Ver%20projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ver projeto mobile"
+            src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+            alt="Ver repositório do projeto Gestão de Academia"
           />
         </a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Projeto Web</h3>
       <p align="center">
-        Descreva aqui seu site, suas tecnologias e seus principais recursos.
-      </p>
-      <p align="center">
-        <a href="https://github.com/PH-dev30/REPOSITORIO_WEB">
-          <img
-            src="https://img.shields.io/badge/Ver%20projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ver projeto web"
-          />
-        </a>
+        <sub>
+          Repositório externo ao perfil PH-dev30. Consulte o README do projeto para detalhes de instalação e tecnologias.
+        </sub>
       </p>
     </td>
   </tr>
@@ -90,8 +82,8 @@
 <p align="center">
   <a href="https://github.com/PH-dev30?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Explorar%20todos%20os%20repositórios-075985?style=for-the-badge&logo=github&logoColor=white"
-      alt="Todos os repositórios"
+      src="https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-075985?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explorar meus repositórios"
     />
   </a>
 </p>
@@ -103,22 +95,22 @@
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=PH-dev30&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00BFFF&text_color=E6F1FF&rank_icon=github"
-    alt="Estatísticas do GitHub"
+    alt="Estatísticas do GitHub de PH-dev30"
   />
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-dev30&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=E6F1FF"
-    alt="Linguagens dos repositórios"
+    alt="Linguagens dos repositórios de PH-dev30"
   />
 </p>
 
 <!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
-<h2 align="center">🔥 Minha jornada de contribuições</h2>
+<h2 align="center">🔥 Sequência de contribuições</h2>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=PH-dev30&theme=transparent&hide_border=true&background=050816&ring=00D4FF&fire=00BFFF&currStreakLabel=00D4FF&sideLabels=E6F1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB4"
-    alt="Sequência de contribuições"
+    alt="Sequência de contribuições de PH-dev30"
   />
 </p>
 
@@ -128,31 +120,31 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=PH-dev30&bg_color=050816&color=E6F1FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Gráfico de atividade do GitHub"
+    alt="Gráfico de atividade de PH-dev30"
     width="100%"
   />
 </p>
 
 <!-- CONTATO -->
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">📫 Vamos nos conectar?</h2>
 
 <p align="center">
   <a href="https://github.com/PH-dev30">
     <img
-      src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-PH--dev30-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Perfil no GitHub"
     />
   </a>
   <a href="https://www.linkedin.com/in/pedro-gomes-56bb21438/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Perfil no LinkedIn"
     />
   </a>
   <a href="mailto:pedrohsdgomes@gmail.com">
     <img
       src="https://img.shields.io/badge/E--mail-Contato-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="E-mail"
+      alt="Enviar e-mail"
     />
   </a>
 </p>
