@@ -114,16 +114,10 @@
   />
 </p>
 
-<!-- GRÁFICO DE ATIVIDADE -->
-<h2 align="center">📈 Atividade de desenvolvimento</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PH-dev30&bg_color=050816&color=E6F1FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Gráfico de atividade de PH-dev30"
-    width="100%"
-  />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 
 <!-- CONTATO -->
 <h2 align="center">📫 Vamos nos conectar?</h2>
