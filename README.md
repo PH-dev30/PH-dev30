@@ -174,7 +174,7 @@
   </a>
    <a href="https://www.instagram.com/pedroh.ofl/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      src="https://img.shields.io/badge/Instagram-contato-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       alt="Instagram"
       />
   </a>
