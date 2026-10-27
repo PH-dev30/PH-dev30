@@ -168,19 +168,19 @@
   </a>
   <a href="https://www.linkedin.com/in/pedro-gomes-56bb21438/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Perfil no LinkedIn"
     />
   </a>
    <a href="https://www.instagram.com/pedroh.ofl/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Instagram-contato-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       alt="Instagram"
       />
   </a>
   <a href="mailto:pedrohsdgomes@gmail.com">
     <img
-      src="https://img.shields.io/badge/E--mail-Contato-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/E--mail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Enviar e-mail"
     />
   </a>
