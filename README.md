@@ -162,7 +162,7 @@
 <p align="center">
   <a href="https://github.com/PH-dev30">
     <img
-      src="https://img.shields.io/badge/GitHub-PH--dev30-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Perfil no GitHub"
     />
   </a>
