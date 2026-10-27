@@ -54,7 +54,7 @@
 <br/>
 
 <!-- PROJETOS -->
-<h2 align="center">🚀 Projeto em destaque</h2>
+<h2 align="center">🚀 Projetos em destaque</h2>
 
 <table align="center">
   <tr>
@@ -80,6 +80,31 @@
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 align="center">🍄 Super Mario POO — Java</h3>
+      <p align="center">
+        Um jogo de plataforma 2D inspirado no clássico Super Mario, desenvolvido inteiramente em Java. O projeto foi construído do zero, sem o            uso de motores gráficos prontos (como Unity ou Godot), com o objetivo de aplicar na prática conceitos fundamentais de Programação                 Orientada a Objetos (POO).
+      </p>
+      <p align="center">
+        <a href="https://github.com/PH-dev30/Mario-Java">
+          <img
+            src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+            alt="Ver repositório do projeto Gestão de Academia"
+          />
+        </a>
+      </p>
+      <p align="center">
+        <sub>
+          Consulte o README do projeto para detalhes de instalação e tecnologias.
+        </sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <a href="https://github.com/PH-dev30?tab=repositories">
