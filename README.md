@@ -123,12 +123,14 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=PH-dev30&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00BFFF&text_color=E6F1FF&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=PH-dev30&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00BFFF&text_color=E6F1FF&rank_icon=github"
+    align="top"
     alt="Estatísticas do GitHub de PH-dev30"
   />
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-dev30&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=E6F1FF"
+    align="top"
     alt="Linguagens dos repositórios de PH-dev30"
   />
 </p>
