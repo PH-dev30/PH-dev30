@@ -118,19 +118,19 @@
 <br/>
 
 <!-- ESTATÍSTICAS -->
+
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=PH-dev30&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00BFFF&text_color=E6F1FF&rank_icon=github"
-    height="165"
-    align="top"
     alt="Estatísticas do GitHub"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=PH-dev30&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=E6F1FF"
-    height="165"
-    align="top"
     alt="Linguagens mais utilizadas"
   />
 </p>
