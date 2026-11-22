@@ -105,6 +105,27 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 align="center">🏎️ Pixel Bros Racing — Godot</h3>
+      <p align="center">
+        Jogo de corrida com Karts, desenvolvido colaborativamente durante o programa Residência em Games.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Blue-Raccoon-Interactive/Pixel-Bros-Racing">
+          <img
+            src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+            alt="Ver repositório do projeto Pixel Bros Racing"
+          />
+        </a>
+      </p>
+      <p align="center">
+        <sub>Projeto desenvolvido em colaboração com a Blue Raccoon Interactive.</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/PH-dev30?tab=repositories">
