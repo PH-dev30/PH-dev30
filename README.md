@@ -110,7 +110,7 @@
     <td valign="top">
       <h3 align="center">🏎️ Pixel Bros Racing — Godot</h3>
       <p align="center">
-        Jogo de corrida com Karts, desenvolvido colaborativamente durante o programa Residência em Games.
+        Jogo de corrida com Karts inspirado em Kart Bros (Jogo de navegador), com os karts inspirados nos carros de corrida maluca, desenvolvido colaborativamente durante o programa Residência em Games.
       </p>
       <p align="center">
         <a href="https://github.com/Blue-Raccoon-Interactive/Pixel-Bros-Racing">
