@@ -121,7 +121,7 @@
         </a>
       </p>
       <p align="center">
-        <sub>Projeto desenvolvido em colaboração com a Blue Raccoon Interactive.</sub>
+        <sub>Projeto desenvolvido pela equipe Blue Raccoon Interactive.</sub>
       </p>
     </td>
   </tr>
